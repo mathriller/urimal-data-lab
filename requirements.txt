@@ -1,0 +1,8 @@
+streamlit==1.62.0
+kiwipiepy==0.22.2
+wordcloud>=1.9.4,<2
+matplotlib>=3.10,<4
+pandas>=2.2,<4
+numpy>=2.0,<3
+Pillow>=11,<13
+openpyxl>=3.1.5,<4
